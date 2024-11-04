@@ -2,3 +2,5 @@ Ana,29,Marketing
 Bruno,34,TI
 Carla,28,Vendas
 Davi,40,Marketing
+Jean,35,TI
+Ricardo,36,Marketing
