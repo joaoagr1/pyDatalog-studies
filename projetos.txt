@@ -1,0 +1,3 @@
+CampanhaDigital,Marketing 
+AppMobile,TI 
+ECommerce,Vendas
