@@ -1,0 +1,52 @@
+Nome;Departamento;AnosExperiencia
+Alice;Desenvolvimento;5
+Bob;Recursos Humanos;3
+Carlos;Marketing;8
+Diana;Desenvolvimento;2
+Evelyn;Financeiro;6
+Frank;Recursos Humanos;1
+George;Desenvolvimento;7
+Hannah;Marketing;4
+Ian;Desenvolvimento;9
+Jill;Financeiro;3
+Kevin;TI;5
+Laura;Suporte;2
+Michael;Qualidade;6
+Nina;Infraestrutura;10
+Oscar;Operações;4
+Paula;Legal;3
+Quentin;Compliance;7
+Rachel;Engenharia;2
+Simon;Vendas;5
+Tina;Vendas Internacionais;6
+Uma;Marketing;8
+Victor;Desenvolvimento;4
+Wendy;Financeiro;7
+Xander;TI;5
+Yara;Infraestrutura;9
+Zach;Suporte;4
+Anita;Qualidade;5
+Brian;Engenharia;8
+Cathy;Planejamento;3
+David;Operações;6
+Elena;Legal;2
+Fernando;Desenvolvimento;8
+Gabriela;Marketing;6
+Helena;Financeiro;4
+Isaac;Compliance;5
+James;Planejamento;6
+Kara;Suporte;3
+Luis;Infraestrutura;7
+Maria;TI;4
+Nick;Engenharia;3
+Olivia;Vendas Internacionais;7
+Paul;Planejamento;8
+Queen;Legal;4
+Richard;Operações;6
+Sonia;Desenvolvimento;10
+Tom;Qualidade;7
+Ursula;Marketing;9
+Vera;Desenvolvimento;6
+William;Financeiro;8
+Ximena;Recursos Humanos;3
+Zoe;Vendas;4

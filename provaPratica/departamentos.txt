@@ -1,0 +1,16 @@
+Nome;QtdFuncionarios
+Desenvolvimento;10
+Marketing;4
+Recursos Humanos;3
+Financeiro;5
+Vendas;7
+TI;6
+Suporte;4
+Qualidade;5
+Infraestrutura;8
+Operações;6
+Legal;3
+Compliance;2
+Engenharia;9
+Vendas Internacionais;5
+Planejamento;6

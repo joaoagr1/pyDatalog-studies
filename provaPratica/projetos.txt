@@ -1,0 +1,27 @@
+Nome;DepartamentoResponsavel
+Projeto X;Desenvolvimento
+Projeto Y;Marketing
+Projeto Z;Recursos Humanos
+Projeto A;Financeiro
+Projeto B;Desenvolvimento
+Projeto C;Vendas
+Projeto D;TI
+Projeto E;Desenvolvimento
+Projeto F;Financeiro
+Projeto G;TI
+Projeto H;Marketing
+Projeto I;Recursos Humanos
+Projeto J;Desenvolvimento
+Projeto K;TI
+Projeto L;Financeiro
+Projeto M;Vendas
+Projeto N;Desenvolvimento
+Projeto O;Marketing
+Projeto P;TI
+Projeto Q;Financeiro
+Projeto R;Desenvolvimento
+Projeto S;Recursos Humanos
+Projeto T;Vendas
+Projeto U;Desenvolvimento
+Projeto V;TI
+Projeto W;Financeiro
