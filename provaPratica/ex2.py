@@ -37,8 +37,12 @@ with open('alocacoes.txt', 'r') as arquivo:
 
 TrabalhaEm(Funcionario, Projeto) <= (Funcionarios(Funcionario, X, Z) & Projetos(Projeto, X)) #type: ignore
 
-PertenceAoDepartamento(Funcionario, Departamento) <= (Funcionarios(Funcionario,X,Z) & Departamento(X,Z))
+PertenceAoDepartamento(Funcionario, Departamento) <= (Funcionarios(Funcionario,X,Z) & Departamentos(Departamento,Z))
 
 funcionariosProjetos = TrabalhaEm(Funcionario, Projeto)
+funcionarioDepartamento = PertenceAoDepartamento(Funcionario, Departamento)
 
 print(funcionariosProjetos)
+print("=====================================================")
+print(funcionarioDepartamento)
+
